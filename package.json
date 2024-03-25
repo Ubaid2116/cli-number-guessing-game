@@ -1,7 +1,7 @@
 {
   "name": "mu4-cli-number-guessing-game",
-  "version": "1.0.0",
-  "description": "A number guessing game with Typescript, Node.js and Inquirer",
+  "version": "1.0.2",
+  "description": "CLI based number guessing game",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
