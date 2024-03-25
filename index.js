@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("\n\tWelcome to Muhammad-Ubaid - CLI Number Guessing Gmae\n");
+console.log("\n\tWelcome to Muhammad-Ubaid - CLI Number Guessing Game\n");
 const randomNumber = Math.floor(Math.random() * 5 + 1);
 const answer = await inquirer.prompt([
     {
